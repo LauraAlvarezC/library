@@ -1,0 +1,15 @@
+.Home {
+    background-image: url("/public/img/imagen\ libreria.jpg");
+    background-size: contain;
+    height: 100vh;
+
+}
+.App-header{
+    background-color:rgb(191, 177, 218);
+    background-size: cover;
+    width: 100 vh;
+    min-height: 100px;
+    border-radius: 20px;
+    
+
+}

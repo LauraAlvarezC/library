@@ -1,0 +1,111 @@
+{
+  "books": [
+    {
+      "title": "Educar en el feminismo",
+      "author": "Iria Marañón",
+      "cover": "https://imagedelivery.net/QDkyDSqaJI1JEO0MqH_3SQ/ec4dd80e-73f0-4b57-51c0-65d159ea5a00/default",
+      "id": 1,
+      "isInFavorites": true
+    },
+    {
+      "title": "Cuentos de Buenas Noches para Niñas Rebeldes",
+      "author": "Elena Favilli y Francesca Cavallo",
+      "cover": "https://m.media-amazon.com/images/I/51yGphesu+L._SX258_BO1,204,203,200_.jpg",
+      "id": 2,
+      "isInFavorites": true
+    },
+    {
+      "title": "Cuentos de Buenas Noches para Niñas Rebeldes 2",
+      "author": "Elena Favilli y Francesca Cavallo",
+      "cover": "https://m.media-amazon.com/images/I/51fluJObFsL._SX198_BO1,204,203,200_QL40_ML2_.jpg",
+      "id": 3,
+      "book": {
+        "title": "Cuentos de Buenas Noches para Niñas Rebeldes 2",
+        "author": "Elena Favilli y Francesca Cavallo",
+        "cover": "https://m.media-amazon.com/images/I/51fluJObFsL._SX198_BO1,204,203,200_QL40_ML2_.jpg",
+        "id": 3,
+        "isInFavorites": true
+      },
+      "isInFavorites": true
+    },
+    {
+      "title": "El futuro es femenino: Cuentos para que juntas cambiemos el mundo",
+      "author": "varios autores",
+      "cover": "https://m.media-amazon.com/images/I/51XeXV-W2PL._SX351_BO1,204,203,200_.jpg",
+      "id": 4,
+      "isInFavorites": false
+    },
+    {
+      "title": "Mujer tenía que ser: Para todas las que están hasta el coño",
+      "author": "Tania Llasera",
+      "cover": "https://m.media-amazon.com/images/I/41kNFfnDrnL._SX327_BO1,204,203,200_.jpg",
+      "id": 5,
+      "isInFavorites": false
+    },
+    {
+      "title": "Yo no renuncio: Mi historia de no conciliación",
+      "author": "Laura Baena",
+      "cover": "https://m.media-amazon.com/images/P/B09Z6RFL8D.01._SCLZZZZZZZ_SX500_.jpg",
+      "id": 6,
+      "isInFavorites": true
+    },
+    {
+      "title": "Vayamos adelante",
+      "author": "Sheryl Sandberg",
+      "cover": "https://m.media-amazon.com/images/I/41nLeQwpdlL._SX329_BO1,204,203,200_.jpg",
+      "id": 7,
+      "isInFavorites": false
+    },
+    {
+      "title": "Todos deberíamos ser feministas",
+      "author": "Chimamanda Ngozi Adichie",
+      "cover": "https://m.media-amazon.com/images/I/411Qh3dQd-L._SX342_BO1,204,203,200_.jpg",
+      "id": 8,
+      "isInFavorites": true
+    },
+    {
+      "title": "Una habitación propia",
+      "author": "Virginia Woolf",
+      "cover": "https://imagessl0.casadellibro.com/a/l/t7/90/9788432217890.jpg",
+      "id": 9
+    },
+    {
+      "title": " We Too. Tu lucha. Mi lucha",
+      "author": "Octavio Salazar",
+      "cover": "https://planetadelibroscom.cdnstatics2.com/usuaris/libros/fotos/290/m_libros/portada_wetoo_octavio-salazar_201811261112.jpg",
+      "id": 10,
+      "isInFavorites": true
+    }
+  ],
+  "authors": [
+    {
+      "name": "author1"
+    },
+    {
+      "name": "author2"
+    }
+  ],
+  "users": [
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$IoVtvT7K3wYtUWYMDCpySu7T9BLxexw3VMTMOt1J2ITtmkcRwHbfq",
+      "id": 1
+    },
+    {
+      "email": "user@mail.com",
+      "password": "$2a$10$t5aNH/wxicM2ziFTBua2iey14LjAvdVha5l1Lq/FedEPYwKpJryhu",
+      "firstname": "Bob",
+      "lastname": "Martinez",
+      "age": 18,
+      "id": 2
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "$2a$10$If.yni7GXbNyBFAkF/p5meMYmDNMMwQotQZ8PrIciu3MeiMeNum1m",
+      "firstname": "Kate",
+      "lastname": "Martinez",
+      "age": 18,
+      "id": 3
+    }
+  ]
+}
